@@ -9,3 +9,4 @@ Ekdum Thik !!
 Ekdum Badhiya !!
 
 Fixed part1 of bug123
+Fixed the bug123 completely
