@@ -7,3 +7,5 @@ Kaise ho ??
 Ekdum Thik !!
 
 Ekdum Badhiya !!
+
+Fixed part1 of bug123
