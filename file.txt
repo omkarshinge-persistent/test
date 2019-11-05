@@ -14,3 +14,5 @@ Fixed the bug123 completely
 Fixed bug456
 
 extra feature
+
+extra feature 2
